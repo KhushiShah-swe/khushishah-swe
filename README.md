@@ -1,3 +1,4 @@
+![Banner](banner.png)
 # Hi, I'm Khushi Shah 👋
 
 🎓 Master's Student in Computer Science @ DePaul University, Chicago  
