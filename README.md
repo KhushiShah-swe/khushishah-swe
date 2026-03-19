@@ -80,7 +80,13 @@ Agile, Scrum, CI/CD, REST APIs, Microservices, System Design
 ✔ Focus on writing clean, maintainable, and scalable code  
 
 ---
+## 🎯 Looking For
 
+- Software Engineer (SWE) roles  
+- Full-stack development opportunities  
+- Roles involving Agile, Scrum, and project coordination
+
+---
 ## 📫 Connect With Me
 
 📧 Email: khushishah.r.009@gmail.com  
