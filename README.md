@@ -16,30 +16,6 @@ Along with technical development, I bring strong experience as a **Scrum Master*
 
 ---
 
-## 💼 Professional Experience
-
-### Software Engineer  
-**Discover Financial Services, USA** | July 2025 – Present  
-- Developed scalable web applications using **Java, Spring Boot, and React**, building RESTful APIs and responsive UI components  
-- Designed and optimized **PostgreSQL databases** and complex SQL queries for high-performance systems  
-- Built microservices-based backend systems with **Spring Boot, JPA/Hibernate**, and robust API design  
-- Implemented **JWT-based authentication and role-based access control** using Spring Security  
-- Improved system performance by optimizing backend logic and implementing caching strategies  
-- Set up **CI/CD pipelines using Jenkins, Docker, and Kubernetes**, improving deployment efficiency  
-
----
-
-### Software Developer  
-**Tata Consultancy Services, India** | Jan 2023 – July 2024  
-- Built scalable backend services using **Java Spring Boot and Node.js** in a microservices architecture  
-- Developed responsive frontend components using **React**, improving user engagement  
-- Implemented **CI/CD pipelines with Docker**, reducing release cycles and improving deployment success  
-- Integrated secure authentication using **OAuth 2.0**  
-- Optimized database performance across **MySQL, Oracle, and PostgreSQL**  
-- Designed event-driven systems and improved processing efficiency in distributed environments  
-
----
-
 ## 🛠 Tech Stack
 
 **Languages:**  
