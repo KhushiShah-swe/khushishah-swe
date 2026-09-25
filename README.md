@@ -66,7 +66,7 @@ Agile, Scrum, CI/CD, REST APIs, Microservices, System Design
 ---
 ## 📫 Connect With Me
 
-📧 Email: khushishah.r.009@gmail.com  
+📧 Email: kshah15102@gmail.com
 🔗 LinkedIn: www.linkedin.com/in/khushi-shah-b7a88a339  
 
 ---
